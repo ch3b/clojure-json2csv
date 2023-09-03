@@ -11,3 +11,14 @@ pom.xml.asc
 /.prepl-port
 .hgignore
 .hg/
+.#*
+*~
+.eastwood
+.idea
+clojure-rte.iml
+java*.hprof
+.clj-kondo/.cache
+.lsp
+.cpcache
+.clj-kondo/backtick
+.DS_Store
