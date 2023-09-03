@@ -11,8 +11,6 @@ pom.xml.asc
 /.prepl-port
 .hgignore
 .hg/
-.#*
-*~
 .eastwood
 .idea
 clojure-rte.iml
